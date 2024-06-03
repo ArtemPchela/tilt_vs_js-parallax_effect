@@ -11,7 +11,9 @@ The tilt effect is enhanced with a parallax JavaScript library called VanillaTil
 * 📏 Scalable: The effect scales the card slightly to enhance the 3D effect.
 * 🔍 Perspective and Easing: Custom perspective and easing settings for a more realistic feel.
 * 📸 Dynamic Content: Each card contains dynamic content, including images and text that move with the tilt.
-* 🛠️ Technologies Used 🛠️
+
+## 🛠️ Technologies Used 🛠️
+
 * 🔧 HTML: For the basic structure of the cards.
 * 🎨 CSS: For styling the cards and adding transitions.
 * 💻 JavaScript: For handling the mouse movement and applying the tilt effect.
